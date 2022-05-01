@@ -1,5 +1,5 @@
 import time
-from Python.others.value import *
+from Python.Python.others.value import *
 
 
 def merge(a, l, m, r):

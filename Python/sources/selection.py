@@ -1,6 +1,6 @@
 import time
-from Python.others.swap import *
-from Python.others.value import *
+from Python.Python.others.swap import *
+from Python.Python.others.value import *
 
 def selection(a):
     for i in range(len(a)-1):

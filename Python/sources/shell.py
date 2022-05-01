@@ -1,6 +1,5 @@
 import time
-from Python.others.swap import *
-from Python.others.value import *
+from Python.Python.others.value import *
 
 
 def shell_sort(a):

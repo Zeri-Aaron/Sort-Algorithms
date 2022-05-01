@@ -1,6 +1,6 @@
 import time
-from Python.others.swap import *
-from Python.others.value import *
+from Python.Python.others.swap import *
+from Python.Python.others.value import *
 
 
 def max_heapify(a, s, i):
