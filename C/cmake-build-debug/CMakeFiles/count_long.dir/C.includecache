@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/C Codes/C/count_long.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+value.h
+G:/C Codes/C/value.h
+
+G:/C Codes/C/swap.c
+
+G:/C Codes/C/value.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+G:/C Codes/C/value.h
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/C Codes/C/others/swap.c
+
+G:/C Codes/C/others/value.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

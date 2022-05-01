@@ -1,0 +1,13 @@
+G:/C Codes/C/cmake-build-debug/CMakeFiles/count_pn.dir
+G:/C Codes/C/cmake-build-debug/CMakeFiles/merge.dir
+G:/C Codes/C/cmake-build-debug/CMakeFiles/count_long.dir
+G:/C Codes/C/cmake-build-debug/CMakeFiles/heap.dir
+G:/C Codes/C/cmake-build-debug/CMakeFiles/bubble.dir
+G:/C Codes/C/cmake-build-debug/CMakeFiles/count_short.dir
+G:/C Codes/C/cmake-build-debug/CMakeFiles/insertion.dir
+G:/C Codes/C/cmake-build-debug/CMakeFiles/optibubble.dir
+G:/C Codes/C/cmake-build-debug/CMakeFiles/quick.dir
+G:/C Codes/C/cmake-build-debug/CMakeFiles/selection.dir
+G:/C Codes/C/cmake-build-debug/CMakeFiles/shell.dir
+G:/C Codes/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/C Codes/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

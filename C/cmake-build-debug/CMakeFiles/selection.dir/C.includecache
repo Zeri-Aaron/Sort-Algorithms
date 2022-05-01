@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/C Codes/C/selection.c
+stdio.h
+G:/C Codes/C/stdio.h
+stdlib.h
+G:/C Codes/C/stdlib.h
+swap.c
+G:/C Codes/C/swap.c
+
+G:/C Codes/C/swap.c
+stdio.h
+G:/C Codes/C/stdio.h
+stdlib.h
+G:/C Codes/C/stdlib.h
+

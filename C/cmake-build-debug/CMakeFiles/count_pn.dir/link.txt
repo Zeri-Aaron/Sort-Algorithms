@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\count_pn.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\count_pn.dir/objects.a @CMakeFiles\count_pn.dir\objects1.rsp
+D:\MinGW\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\count_pn.dir/objects.a -Wl,--no-whole-archive -o count_pn.exe -Wl,--out-implib,libcount_pn.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\count_pn.dir\linklibs.rsp
