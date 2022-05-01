@@ -52,10 +52,10 @@ RM = "D:\Clion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "G:\Cpp Codes\Cpp"
+CMAKE_SOURCE_DIR = "G:\Cpp Codes\Cpp External\Cpp"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "G:\Cpp Codes\Cpp\cmake-build-debug"
+CMAKE_BINARY_DIR = "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/countL.dir/depend.make
@@ -67,42 +67,42 @@ include CMakeFiles/countL.dir/flags.make
 
 CMakeFiles/countL.dir/sources/countL.cpp.obj: CMakeFiles/countL.dir/flags.make
 CMakeFiles/countL.dir/sources/countL.cpp.obj: ../sources/countL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/countL.dir/sources/countL.cpp.obj"
-	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\countL.dir\sources\countL.cpp.obj -c "G:\Cpp Codes\Cpp\sources\countL.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/countL.dir/sources/countL.cpp.obj"
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\countL.dir\sources\countL.cpp.obj -c "G:\Cpp Codes\Cpp External\Cpp\sources\countL.cpp"
 
 CMakeFiles/countL.dir/sources/countL.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/countL.dir/sources/countL.cpp.i"
-	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\Cpp Codes\Cpp\sources\countL.cpp" > CMakeFiles\countL.dir\sources\countL.cpp.i
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\Cpp Codes\Cpp External\Cpp\sources\countL.cpp" > CMakeFiles\countL.dir\sources\countL.cpp.i
 
 CMakeFiles/countL.dir/sources/countL.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/countL.dir/sources/countL.cpp.s"
-	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\Cpp Codes\Cpp\sources\countL.cpp" -o CMakeFiles\countL.dir\sources\countL.cpp.s
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\Cpp Codes\Cpp External\Cpp\sources\countL.cpp" -o CMakeFiles\countL.dir\sources\countL.cpp.s
 
 CMakeFiles/countL.dir/others/swap.cpp.obj: CMakeFiles/countL.dir/flags.make
 CMakeFiles/countL.dir/others/swap.cpp.obj: ../others/swap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/countL.dir/others/swap.cpp.obj"
-	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\countL.dir\others\swap.cpp.obj -c "G:\Cpp Codes\Cpp\others\swap.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/countL.dir/others/swap.cpp.obj"
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\countL.dir\others\swap.cpp.obj -c "G:\Cpp Codes\Cpp External\Cpp\others\swap.cpp"
 
 CMakeFiles/countL.dir/others/swap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/countL.dir/others/swap.cpp.i"
-	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\Cpp Codes\Cpp\others\swap.cpp" > CMakeFiles\countL.dir\others\swap.cpp.i
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\Cpp Codes\Cpp External\Cpp\others\swap.cpp" > CMakeFiles\countL.dir\others\swap.cpp.i
 
 CMakeFiles/countL.dir/others/swap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/countL.dir/others/swap.cpp.s"
-	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\Cpp Codes\Cpp\others\swap.cpp" -o CMakeFiles\countL.dir\others\swap.cpp.s
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\Cpp Codes\Cpp External\Cpp\others\swap.cpp" -o CMakeFiles\countL.dir\others\swap.cpp.s
 
 CMakeFiles/countL.dir/others/value.cpp.obj: CMakeFiles/countL.dir/flags.make
 CMakeFiles/countL.dir/others/value.cpp.obj: ../others/value.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/countL.dir/others/value.cpp.obj"
-	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\countL.dir\others\value.cpp.obj -c "G:\Cpp Codes\Cpp\others\value.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/countL.dir/others/value.cpp.obj"
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\countL.dir\others\value.cpp.obj -c "G:\Cpp Codes\Cpp External\Cpp\others\value.cpp"
 
 CMakeFiles/countL.dir/others/value.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/countL.dir/others/value.cpp.i"
-	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\Cpp Codes\Cpp\others\value.cpp" > CMakeFiles\countL.dir\others\value.cpp.i
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\Cpp Codes\Cpp External\Cpp\others\value.cpp" > CMakeFiles\countL.dir\others\value.cpp.i
 
 CMakeFiles/countL.dir/others/value.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/countL.dir/others/value.cpp.s"
-	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\Cpp Codes\Cpp\others\value.cpp" -o CMakeFiles\countL.dir\others\value.cpp.s
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\Cpp Codes\Cpp External\Cpp\others\value.cpp" -o CMakeFiles\countL.dir\others\value.cpp.s
 
 # Object files for target countL
 countL_OBJECTS = \
@@ -120,7 +120,7 @@ countL.exe: CMakeFiles/countL.dir/build.make
 countL.exe: CMakeFiles/countL.dir/linklibs.rsp
 countL.exe: CMakeFiles/countL.dir/objects1.rsp
 countL.exe: CMakeFiles/countL.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable countL.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable countL.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\countL.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -132,6 +132,6 @@ CMakeFiles/countL.dir/clean:
 .PHONY : CMakeFiles/countL.dir/clean
 
 CMakeFiles/countL.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "G:\Cpp Codes\Cpp" "G:\Cpp Codes\Cpp" "G:\Cpp Codes\Cpp\cmake-build-debug" "G:\Cpp Codes\Cpp\cmake-build-debug" "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles\countL.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "G:\Cpp Codes\Cpp External\Cpp" "G:\Cpp Codes\Cpp External\Cpp" "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug" "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug" "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles\countL.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/countL.dir/depend
 

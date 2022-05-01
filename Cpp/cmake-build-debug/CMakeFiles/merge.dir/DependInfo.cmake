@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "G:/Cpp Codes/Cpp/others/swap.cpp" "G:/Cpp Codes/Cpp/cmake-build-debug/CMakeFiles/merge.dir/others/swap.cpp.obj"
-  "G:/Cpp Codes/Cpp/others/value.cpp" "G:/Cpp Codes/Cpp/cmake-build-debug/CMakeFiles/merge.dir/others/value.cpp.obj"
-  "G:/Cpp Codes/Cpp/sources/merge.cpp" "G:/Cpp Codes/Cpp/cmake-build-debug/CMakeFiles/merge.dir/sources/merge.cpp.obj"
+  "G:/Cpp Codes/Cpp External/Cpp/others/swap.cpp" "G:/Cpp Codes/Cpp External/Cpp/cmake-build-debug/CMakeFiles/merge.dir/others/swap.cpp.obj"
+  "G:/Cpp Codes/Cpp External/Cpp/others/value.cpp" "G:/Cpp Codes/Cpp External/Cpp/cmake-build-debug/CMakeFiles/merge.dir/others/value.cpp.obj"
+  "G:/Cpp Codes/Cpp External/Cpp/sources/merge.cpp" "G:/Cpp Codes/Cpp External/Cpp/cmake-build-debug/CMakeFiles/merge.dir/sources/merge.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

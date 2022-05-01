@@ -1,5 +1,3 @@
-#include "../headers/swap.h"
-
 void swap(int* a, int f, int s)
 {
     int temp = a[f];

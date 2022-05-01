@@ -1,6 +1,5 @@
 #include <ctime>
 #include <cstdlib>
-#include "../headers/value.h"
 
 int* als(int s)
 {

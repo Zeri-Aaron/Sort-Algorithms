@@ -53,10 +53,10 @@ RM = "D:\Clion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "G:\Cpp Codes\Cpp"
+CMAKE_SOURCE_DIR = "G:\Cpp Codes\Cpp External\Cpp"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "G:\Cpp Codes\Cpp\cmake-build-debug"
+CMAKE_BINARY_DIR = "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -100,14 +100,14 @@ clean: CMakeFiles/shell.dir/clean
 CMakeFiles/merge.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\merge.dir\build.make CMakeFiles/merge.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\merge.dir\build.make CMakeFiles/merge.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=25,26,27,28 "Built target merge"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=25,26,27,28 "Built target merge"
 .PHONY : CMakeFiles/merge.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/merge.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/merge.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/merge.dir/rule
 
 # Convenience name for target.
@@ -126,14 +126,14 @@ CMakeFiles/merge.dir/clean:
 CMakeFiles/heap.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\heap.dir\build.make CMakeFiles/heap.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\heap.dir\build.make CMakeFiles/heap.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=17,18,19,20 "Built target heap"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=17,18,19,20 "Built target heap"
 .PHONY : CMakeFiles/heap.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/heap.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/heap.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/heap.dir/rule
 
 # Convenience name for target.
@@ -152,14 +152,14 @@ CMakeFiles/heap.dir/clean:
 CMakeFiles/bubble.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\bubble.dir\build.make CMakeFiles/bubble.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\bubble.dir\build.make CMakeFiles/bubble.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=1,2,3,4 "Built target bubble"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=1,2,3,4 "Built target bubble"
 .PHONY : CMakeFiles/bubble.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/bubble.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/bubble.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/bubble.dir/rule
 
 # Convenience name for target.
@@ -178,14 +178,14 @@ CMakeFiles/bubble.dir/clean:
 CMakeFiles/countL.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\countL.dir\build.make CMakeFiles/countL.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\countL.dir\build.make CMakeFiles/countL.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=5,6,7,8 "Built target countL"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=5,6,7,8 "Built target countL"
 .PHONY : CMakeFiles/countL.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/countL.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/countL.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/countL.dir/rule
 
 # Convenience name for target.
@@ -204,14 +204,14 @@ CMakeFiles/countL.dir/clean:
 CMakeFiles/insertion.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\insertion.dir\build.make CMakeFiles/insertion.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\insertion.dir\build.make CMakeFiles/insertion.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=21,22,23,24 "Built target insertion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=21,22,23,24 "Built target insertion"
 .PHONY : CMakeFiles/insertion.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/insertion.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/insertion.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/insertion.dir/rule
 
 # Convenience name for target.
@@ -230,14 +230,14 @@ CMakeFiles/insertion.dir/clean:
 CMakeFiles/countPN.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\countPN.dir\build.make CMakeFiles/countPN.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\countPN.dir\build.make CMakeFiles/countPN.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=9,10,11,12 "Built target countPN"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=9,10,11,12 "Built target countPN"
 .PHONY : CMakeFiles/countPN.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/countPN.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/countPN.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/countPN.dir/rule
 
 # Convenience name for target.
@@ -256,14 +256,14 @@ CMakeFiles/countPN.dir/clean:
 CMakeFiles/countS.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\countS.dir\build.make CMakeFiles/countS.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\countS.dir\build.make CMakeFiles/countS.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=13,14,15,16 "Built target countS"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=13,14,15,16 "Built target countS"
 .PHONY : CMakeFiles/countS.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/countS.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/countS.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/countS.dir/rule
 
 # Convenience name for target.
@@ -282,14 +282,14 @@ CMakeFiles/countS.dir/clean:
 CMakeFiles/optibubble.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\optibubble.dir\build.make CMakeFiles/optibubble.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\optibubble.dir\build.make CMakeFiles/optibubble.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=29,30,31,32 "Built target optibubble"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=29,30,31,32 "Built target optibubble"
 .PHONY : CMakeFiles/optibubble.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/optibubble.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/optibubble.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/optibubble.dir/rule
 
 # Convenience name for target.
@@ -308,14 +308,14 @@ CMakeFiles/optibubble.dir/clean:
 CMakeFiles/quick.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\quick.dir\build.make CMakeFiles/quick.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\quick.dir\build.make CMakeFiles/quick.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=33,34,35,36 "Built target quick"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=33,34,35,36 "Built target quick"
 .PHONY : CMakeFiles/quick.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/quick.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/quick.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/quick.dir/rule
 
 # Convenience name for target.
@@ -334,14 +334,14 @@ CMakeFiles/quick.dir/clean:
 CMakeFiles/selection.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\selection.dir\build.make CMakeFiles/selection.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\selection.dir\build.make CMakeFiles/selection.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=37,38,39,40 "Built target selection"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=37,38,39,40 "Built target selection"
 .PHONY : CMakeFiles/selection.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/selection.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/selection.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/selection.dir/rule
 
 # Convenience name for target.
@@ -360,14 +360,14 @@ CMakeFiles/selection.dir/clean:
 CMakeFiles/shell.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\shell.dir\build.make CMakeFiles/shell.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\shell.dir\build.make CMakeFiles/shell.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" --progress-num=41,42,43,44 "Built target shell"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" --progress-num=41,42,43,44 "Built target shell"
 .PHONY : CMakeFiles/shell.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/shell.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/shell.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Cpp Codes\Cpp External\Cpp\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/shell.dir/rule
 
 # Convenience name for target.
