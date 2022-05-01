@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Cpp Codes/Cpp/headers/swap.h
+
+G:/Cpp Codes/Cpp/headers/value.h
+
+G:/Cpp Codes/Cpp/others/swap.cpp
+../headers/swap.h
+G:/Cpp Codes/Cpp/headers/swap.h
+
+G:/Cpp Codes/Cpp/others/value.cpp
+ctime
+-
+cstdlib
+-
+../headers/value.h
+G:/Cpp Codes/Cpp/headers/value.h
+
+G:/Cpp Codes/Cpp/sources/optibubble.cpp
+iostream
+-
+ctime
+-
+../headers/swap.h
+G:/Cpp Codes/Cpp/headers/swap.h
+../headers/value.h
+G:/Cpp Codes/Cpp/headers/value.h
+

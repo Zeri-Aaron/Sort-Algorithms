@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Cpp Codes/Cpp/heap.cpp
+iostream
+-
+ctime
+-
+swap.h
+G:/Cpp Codes/Cpp/swap.h
+value.h
+G:/Cpp Codes/Cpp/value.h
+
+G:/Cpp Codes/Cpp/swap.h
+
+G:/Cpp Codes/Cpp/value.h
+

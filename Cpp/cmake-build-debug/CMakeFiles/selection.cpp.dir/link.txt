@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\selection.cpp.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\selection.cpp.dir/objects.a @CMakeFiles\selection.cpp.dir\objects1.rsp
+D:\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\selection.cpp.dir/objects.a -Wl,--no-whole-archive -o selection.cpp.exe -Wl,--out-implib,libselection.cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\selection.cpp.dir\linklibs.rsp
